@@ -2,8 +2,9 @@ import React from 'react'
 
 const RegisterForm = () => {
     return (
-        <div>
+        <div className="form">
             
+            <button>Hallo von RegisterForm</button>
         </div>
     )
 }
